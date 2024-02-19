@@ -1,4 +1,5 @@
-# Complex Number Class for Java. Класс Комплексного Числа для Java.
+# Complex Number Class for Java.
+# Класс Комплексного Числа для Java.
 
 ---
 
