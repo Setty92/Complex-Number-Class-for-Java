@@ -26,7 +26,7 @@ of complex numbers.
 - `private double imaginary`: Represents the imaginary part of the complex number.
   
 
-## Переменные экземпляря:
+## Переменные экземпляра:
 
 - `private double real`: Представляет действительную часть комплексного числа.
   
